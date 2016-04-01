@@ -1,0 +1,121 @@
+fileFormatVersion: 2
+guid: e55e02629760c7b4e9b4ed6d0d2e283c
+timeCreated: 1458484811
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Body_Cube
+    100002: //RootNode
+    100004: Chains_Plane
+    100006: Cylinder.035_Cylinder.002
+    100008: Detail_Cube.001
+    100010: Ga_Col_Cylinder.001
+    100012: Plane_Plane.001
+    100014: Skulls.001_Cylinder.035_Cylinder.007
+    100016: Skulls_Cylinder.035_Cylinder.006
+    400000: Body_Cube
+    400002: //RootNode
+    400004: Chains_Plane
+    400006: Cylinder.035_Cylinder.002
+    400008: Detail_Cube.001
+    400010: Ga_Col_Cylinder.001
+    400012: Plane_Plane.001
+    400014: Skulls.001_Cylinder.035_Cylinder.007
+    400016: Skulls_Cylinder.035_Cylinder.006
+    2300000: Body_Cube
+    2300002: Chains_Plane
+    2300004: Cylinder.035_Cylinder.002
+    2300006: Detail_Cube.001
+    2300008: Ga_Col_Cylinder.001
+    2300010: Plane_Plane.001
+    2300012: Skulls.001_Cylinder.035_Cylinder.007
+    2300014: Skulls_Cylinder.035_Cylinder.006
+    3300000: Body_Cube
+    3300002: Chains_Plane
+    3300004: Cylinder.035_Cylinder.002
+    3300006: Detail_Cube.001
+    3300008: Ga_Col_Cylinder.001
+    3300010: Plane_Plane.001
+    3300012: Skulls.001_Cylinder.035_Cylinder.007
+    3300014: Skulls_Cylinder.035_Cylinder.006
+    4300000: Body_Cube
+    4300002: Chains_Plane
+    4300004: Cylinder.035_Cylinder.002
+    4300006: Detail_Cube.001
+    4300008: Ga_Col_Cylinder.001
+    4300010: Plane_Plane.001
+    4300012: Skulls.001_Cylinder.035_Cylinder.007
+    4300014: Skulls_Cylinder.035_Cylinder.006
+    6400000: Body_Cube
+    6400002: Chains_Plane
+    6400004: Cylinder.035_Cylinder.002
+    6400006: Detail_Cube.001
+    6400008: Ga_Col_Cylinder.001
+    6400010: Plane_Plane.001
+    6400012: Skulls.001_Cylinder.035_Cylinder.007
+    6400014: Skulls_Cylinder.035_Cylinder.006
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.2
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 1
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
